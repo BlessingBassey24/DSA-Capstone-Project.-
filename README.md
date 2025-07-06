@@ -27,6 +27,10 @@ This involves exploring the data to answer the following questions.
 - Does Palmora Group meeet the requirement to pay employees a minimum of $90,000?
 - Employees that falls within the salary range of $10,000-$20,000?
 ### Key Performance Indicator
+- The male had the higest number in the organization (485)
+- For insights rating on gender, the male had the highest salary
+
+- 
 
 
 
