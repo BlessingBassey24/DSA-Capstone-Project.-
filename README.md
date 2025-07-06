@@ -29,9 +29,31 @@ This involves exploring the data to answer the following questions.
 ### Key Performance Indicator
 - The male had the highest number In the organization (485)
 - For insights on gender, males had the highest salary.
-- F
+- Based on the rating, males had an average rating, making them the highest.
+- For Salary structure, male employees are the highest-paid staff with a sum of $14,000 while the females were the lowest-paid employees 
+- Lagos region had the lowest salary rate of about $9,000
+- The Palmora group does not meet the requirements to pay staff members $90,000 because the salary rate across genders and regions is poor.
+- The majority of the female employees fall within the salary range of $10,000-$20,000
+### Key Observation 
+Based on my observation;
+- About 43 employees refused to disclose their gender.
+- Kaduna region had the highest number of employees.
+- It's safe to say that some of the employees left because of gender inequality and impan improper documentation system.
+- Females had the lowest rating across department and regions.
+- Accounting department had the lowest number of female and Legal department had the highest number of male.s. 
+- The bonus payment does not reflect on the actual performance rating.
+### Recommendation 
+Based on the above observation, I’d recommend that Palmora HR should: 
+- The CEO of Palmora should enforce a comprehensive gender equity policy that clearly defines expectations, processes, and accountability structures.
+- There should be a team responsible for monitoring gender-related issues and driving inclusion initiatives across the company.
+- The CEO should align salary structures to roles rather than individuals to reduce subjective bias and ensure fairness.
+- There should be a mandatory training for all managers on workplace equity, bias recognition, and inclusive decision-making.
+- The CEO should establish anonymous channels for employees to report discrimination or inequality concerns.
+- There should be a measurable gender balance goals across all regions and departments with regular tracking.
+### Conclusion 
+Addressing gender inequality at Palmoria is key to restoring trust and ensuring long-term growth. By acting on data insights and fostering inclusivity, the company can rebuild its culture and reputation.
 
-- 
+
 
 
 
