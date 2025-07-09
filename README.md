@@ -32,16 +32,18 @@ This involves exploring the data to answer the following questions.
 - Based on the rating, males had an average rating, making them the highest.
 - For Salary structure, male employees are the highest-paid staff with a sum of $14,000 while the females were the lowest-paid employees 
 - Lagos region had the lowest salary rate of about $9,000
-- The Palmora group does not meet the requirements to pay staff members $90,000 because the salary rate across genders and regions is poor.
+- The Palmora group does meet the requirements to pay staff members $90,000 but because the salary rate across genders and regions is poor, so it will affect the pay.
 - The majority of the female employees fall within the salary range of $10,000-$20,000
 ### Key Observation 
 Based on my observation;
-- About 43 employees refused to disclose their gender.
-- Kaduna region had the highest number of employees.
-- It's safe to say that some of the employees left because of gender inequality and impan improper documentation system.
+- About 43 employees refused to disclose their gender, this could be because the company had no structure database management.
+- Kaduna region had the highest number of employees, that's because the company is situated in the Northern part of the country.
+- It's safe to say that some of the employees left because of gender inequality and improper documentation system.
 - Females had the lowest rating across department and regions.
-- Accounting department had the lowest number of female and Legal department had the highest number of male.s. 
-- The bonus payment does not reflect on the actual performance rating.
+- Accounting department had the lowest number of female and Legal department had the highest number of males. 
+- The bonus payment does not reflect on the actual performance rating, this could be that there is office politices.
+- Kaduna region had the highest employee salary band, followed by Abuja and Lagos.
+- Majority of the employees earn about 90000 and above of the salary
 ### Recommendation 
 Based on the above observation, I’d recommend that Palmora HR should: 
 - The CEO of Palmora should enforce a comprehensive gender equity policy that clearly defines expectations, processes, and accountability structures.
