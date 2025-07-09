@@ -1,15 +1,4 @@
 # Project Topic: PALMORA GROUP HR ANALYSIS
-## Table of contents
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools Used](tools-used)
-- [Data Cleaning and Transformation](data-cleaning-and-transformation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Key Performance Inidcator](key-performance-indicator)
-- [Dashboard Visual](dashboard-visual)
-- [Key Observation](key-observation)
-- [Recommendation](recommendation)
-- [Conclusion](Conclusion)
 ## Project Overview
 This project aims to solve gender inequality in the Palmora group across its three (3) regions. It will also uncover patterns and disparities related to gender distribution, roles, promotion, compensation, and leadership representations that will guide Palmoria towards a more inclusive and equitable workplace.
 ### Data Source
