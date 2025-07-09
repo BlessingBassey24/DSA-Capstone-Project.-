@@ -5,7 +5,7 @@
 - [Tools Used](#tools-used)
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Key Performance Inidcator](#key-performance-indicator)
+- [Key Performance Indicator](#key-performance-indicator)
 - [Key Observation](#key-observation)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
