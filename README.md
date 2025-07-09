@@ -9,7 +9,7 @@
 - [Dashboard Visual](dashboard-visual)
 - [Key Observation](key-observation)
 - [Recommendation](recommendation)
-- [Conclusion](conclusion)
+- [Conclusion](Conclusion)
 ## Project Overview
 This project aims to solve gender inequality in the Palmora group across its three (3) regions. It will also uncover patterns and disparities related to gender distribution, roles, promotion, compensation, and leadership representations that will guide Palmoria towards a more inclusive and equitable workplace.
 ### Data Source
