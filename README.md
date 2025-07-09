@@ -6,7 +6,6 @@
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Performance Inidcator](#key-performance-indicator)
-- [Dashboard Visual](#dashboard-visual)
 - [Key Observation](#key-observation)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
