@@ -6,6 +6,7 @@
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Performance Indicator](#key-performance-indicator)
+- [Dashboard Visual](#dashboard-visual)
 - [Key Observation](#key-observation)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
@@ -44,6 +45,9 @@ This involves exploring the data to answer the following questions.
 - Lagos region had the lowest salary rate of about $9,000
 - The Palmora group does meet the requirements to pay staff members $90,000 but because the salary rate across genders and regions is poor, so it will affect the pay.
 - The majority of the female employees fall within the salary range of $10,000-$20,000
+### Dashboard Visual
+<img width="910" height="481" alt="Palmora Goup Analysis" src="https://github.com/user-attachments/assets/1e8d45fe-dacf-4eb5-9d83-3ffcb04f650d" />
+
 ### Key Observation 
 Based on my observation;
 - About 43 employees refused to disclose their gender, this could be because the company had no structure database management.
