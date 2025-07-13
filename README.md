@@ -15,7 +15,6 @@ This project aims to solve gender inequality in the Palmora group across its thr
 ### Data Source
 The primary data is the Palmora group data, sent from the Incubator Hub, and mainly for the project.
 ### Tools Used
-- Microsoft Excel (For data cleaning)
 - Microsoft Power BI (For data transformation and creating reports)
 ### Data Cleaning and Transformation
 In the initial phase of the data cleaning, I performed the following action:
